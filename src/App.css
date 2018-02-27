@@ -1,4 +1,10 @@
 body {
   background-color: #a8c2ed;
+  font-family: Montserrat;
+}
+
+.jumbotron p {
+  font-family: playfair;
+  font-size: 1.3em;
 }
 

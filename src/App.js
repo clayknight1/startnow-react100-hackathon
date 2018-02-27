@@ -66,9 +66,9 @@ class App extends Component {
     return (
       <div>
 
-        <div className="jumbotron jumbotron-fluid" id="header">
+        <div className="jumbotron jumbotron-fluid text-center" id="header">
           <div className="container">
-            <h1 className="display-3 font-weight-bold">San Diego Breweries</h1>
+            <h1 className="display-3 font-weight-bold align-top">San Diego Brewery List</h1>
             <p className="lead">Find the best breweries in San Diego County</p>
           </div>
         </div>
